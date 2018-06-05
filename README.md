@@ -4,5 +4,5 @@
 
 ## Dockerfile一覧
 
-### GCC_32bit
+### gcc_32bit
 * 32bitツールチェインを使用するビルドコンテナ
